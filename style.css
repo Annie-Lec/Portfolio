@@ -1,0 +1,20 @@
+a {
+  text-decoration: none;
+  color: red;
+  font-style: italic;
+}
+
+a:hover {
+  text-decoration: underline;
+  color: blueviolet;
+  font-style: normal;
+}
+a:active {
+  text-decoration: dotted;
+  color: yellow;
+  font-weight: bolder;
+  cursor: -webkit-zoom-out;
+}
+/* a:visited {
+  color: aqua;
+} */
